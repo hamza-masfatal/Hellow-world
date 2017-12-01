@@ -1,2 +1,2 @@
 # Hellow-world
-the is repository is good
+the it my first work on github
